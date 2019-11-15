@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Carzex</string>
+    <string name="splashText">Welcome to Site, Online WholeSale Market</string>
+
+    <string name="url_loading_message">Loading website please wait @#8230;</string>
+
+
+
+</resources>
